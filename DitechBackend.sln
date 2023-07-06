@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DitechBackend", "DitechBackend\DitechBackend.csproj", "{9A31D382-0CF4-467C-8C0C-644AD7CF4E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{88C5620E-7B6E-4373-9BEC-AAEA2D2C8C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A31D382-0CF4-467C-8C0C-644AD7CF4E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A31D382-0CF4-467C-8C0C-644AD7CF4E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A31D382-0CF4-467C-8C0C-644AD7CF4E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A31D382-0CF4-467C-8C0C-644AD7CF4E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C5620E-7B6E-4373-9BEC-AAEA2D2C8C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C5620E-7B6E-4373-9BEC-AAEA2D2C8C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C5620E-7B6E-4373-9BEC-AAEA2D2C8C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C5620E-7B6E-4373-9BEC-AAEA2D2C8C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60160369-D849-4F9E-A5B8-F6D4E6681763}
+	EndGlobalSection
+EndGlobal
