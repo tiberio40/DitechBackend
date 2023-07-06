@@ -6,7 +6,7 @@ Backend was built with c# .net 5
 - Crud (insert, delete, update, show) for City and Seller tables.
 - It was used Entity Framework Core like ORM.
 - It was used database first.
-- For this project, two design patterns were used: Repository and Unit of Work
+- For this project, two design patterns were used: Dependency injection, Repository and Unit of Work
 - Docker is configured, but you could use IIS Express or others.
 
 
